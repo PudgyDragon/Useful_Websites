@@ -1,5 +1,5 @@
 # Websites
-Helpful websites to have saved.
+Repository of helpful websites that you should consider adding to your bookmarks.
 
 # Media Writers
 <table>
