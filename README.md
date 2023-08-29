@@ -23,6 +23,16 @@ Repository of helpful websites that you should consider adding to your bookmarks
   </tr>
 </table>
 
+# Encryption
+<table>
+  <tr>
+    <td>
+      <a href="https://gchq.github.io/CyberChef/">CyberChef</a>
+      <p>Web application for encryption, encoding, compression and data analysis.</p>
+    </td>
+  </tr>
+</table>
+
 # Common IP Ranges
 <table>
   <tr>
